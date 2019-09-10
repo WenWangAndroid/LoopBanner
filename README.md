@@ -1,6 +1,6 @@
 # LoopBanner
 
-LoopBanner是通过自定义RecyclerView.LayoutManager以及PagerSnapHelper配合RecyclerView实现的可横向无限循环滑动的banner
+LoopBanner是通过自定义RecyclerView.LayoutManager以及PagerSnapHelper配合RecyclerView实现的可横向无限循环滑动的banner，详细的实现方法可查看博客：https://blog.csdn.net/ww897532167/article/details/86585214
 
 ## 添加依赖
 1. project 的 build.gradle
